@@ -6,6 +6,7 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "react": "^17.0.0",
