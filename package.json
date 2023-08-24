@@ -1,5 +1,5 @@
 {
-  "name": "sorting-visualizer",
+  "name": "algosortvision",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
